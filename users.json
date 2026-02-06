@@ -1,0 +1,150 @@
+{
+    "00000-0000000-0": {
+        "name": "ADMIN",
+        "cnic": "00000-0000000-0",
+        "iban": null,
+        "pin": "0000",
+        "balance": 0.0,
+        "savings": 0.0,
+        "monthly_spending": 0.0,
+        "transactions": []
+    },
+    "35202-9823471-2": {
+        "name": "Muhammad Ali",
+        "cnic": "35202-9823471-2",
+        "iban": "PK11 1111 1111 1111 1111",
+        "pin": "1234",
+        "balance": 1244530.0,
+        "savings": 450000.0,
+        "monthly_spending": 85200.0,
+        "transactions": [
+            [
+                "Netflix Subscription",
+                "Dec 02, 2025",
+                "-1500"
+            ],
+            [
+                "Salary Credit",
+                "Dec 01, 2025",
+                "+350000"
+            ],
+            [
+                "Carrefour Grocery",
+                "Nov 28, 2025",
+                "-24350"
+            ],
+            [
+                "LESCO Bill",
+                "Nov 25, 2025",
+                "-18200"
+            ],
+            {
+                "description": "Transfer to PK22222222...2222",
+                "date": "Dec 27, 2025",
+                "time": "04:49 PM",
+                "amount": "-567.00",
+                "type": "transfer",
+                "balance_after": 1244933.0
+            },
+            {
+                "description": "Tax Payment - Ref 09",
+                "date": "Dec 28, 2025",
+                "time": "10:52 AM",
+                "amount": "-403.00",
+                "type": "tax",
+                "balance_after": 1244530.0
+            }
+        ]
+    },
+    "35202-9876543-1": {
+        "name": "Sara Imran",
+        "cnic": "35202-9876543-1",
+        "iban": "PK33 3333 3333 3333 3333",
+        "pin": "9999",
+        "balance": 965200.0,
+        "savings": 42000.0,
+        "monthly_spending": 32200.0,
+        "transactions": [
+            [
+                "UET Fee",
+                "Dec 22, 2025",
+                "-100500"
+            ],
+            [
+                "Salary Credit",
+                "Dec 20, 2025",
+                "+350000"
+            ],
+            [
+                "Chezious Bill",
+                "Dec 19, 2025",
+                "-4350"
+            ],
+            [
+                "Income Tax",
+                "Dec 25, 2025",
+                "-3200"
+            ]
+        ]
+    },
+    "35202-1234567-9": {
+        "name": "Ahmed Khan",
+        "cnic": "35202-1234567-9",
+        "iban": "PK22 2222 2222 2222 2222",
+        "pin": "5678",
+        "balance": 132500.0,
+        "savings": 20000.0,
+        "monthly_spending": 5200.0,
+        "transactions": [
+            [
+                "Gas Bill",
+                "Dec 21, 2025",
+                "-1500"
+            ],
+            [
+                "Salary Credit",
+                "Dec 14, 2025",
+                "+50000"
+            ],
+            [
+                "PTCL Bill",
+                "Dec 11, 2025",
+                "-2350"
+            ],
+            [
+                "E-Challan",
+                "Dec 05, 2025",
+                "-2000"
+            ]
+        ]
+    },
+    "35202-1234567-0": {
+        "name": "Umer",
+        "cnic": "35202-1234567-0",
+        "iban": "PK111235999999999999999999",
+        "pin": "0909",
+        "balance": 500.0,
+        "savings": 0.0,
+        "monthly_spending": 0.0,
+        "transactions": []
+    },
+    "35202-0000000-0": {
+        "name": "Saim",
+        "cnic": "35202-0000000-0",
+        "iban": "PK450505502924899440494",
+        "pin": "1234",
+        "balance": 450.0,
+        "savings": 0.0,
+        "monthly_spending": 0.0,
+        "transactions": [
+            {
+                "description": "Transfer to PK02222222...2222",
+                "date": "Dec 28, 2025",
+                "time": "03:10 PM",
+                "amount": "-50.00",
+                "type": "transfer",
+                "balance_after": 450.0
+            }
+        ]
+    }
+}
